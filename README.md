@@ -1,4 +1,14 @@
-## Hi there 👋
+## Serhii Nechytailo
+### System Administrator, Junior DevOps Engineer
+
+**Contact info:**<br>
+Mobile: +380951646768<br>
+E-mail: alkatran@gmail.com
+______________________________________________
+### About
+
+*Experienced System Administrator with 15+ years in IT, specializing in Windows and Linux systems, network management, and technical support. Currently transitioning into a Junior DevOps Engineer role with practical skills in Docker, Kubernetes, automation, and CI/CD. Strong analytical skills for efficient troubleshooting and problem-solving.*
+
 
 <!--
 **SergeyVNec/SergeyVNec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

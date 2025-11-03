@@ -71,6 +71,10 @@ SoftServe Academy
 SoftServe Academy
 <br>
 <br>
+### Skills
+Kubernetes, Docker Swarm, Docker Compose, Docker, Bash, Power Shell, RegExp, Vagrant (Software), VMware, VirtualBox, LEMP, LAMP, MongoDB, Network Troubleshooting, NoSQL, MariaDB, RDBMS, MySQL, GIT, SQL, Microsoft Office, OSI Model, DHCP, Switching, IP Subneting, Network Design, IT Infrastructure Management, LOCAL NETWORK ADMINISTRATION, Installation and configuration of local area networks, Hardware Installation, Computer hardware, Computer and Laptops REPAIR, Backup Solutions, Windows XP, 7, 8, 10, installation configuration maintenance and advanced use, Linux system administration, Windows and Windows Server Administration 
+<br>
+<br>
 ### Languages
 **Ukrainian** - Native<br>
 **English** - Intermediate

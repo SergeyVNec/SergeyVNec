@@ -50,6 +50,31 @@ Pension Fund of Ukraine
 <br>
 
 ### Education
+**Information management systems and technologies** - 09/2004 - 06/2007<br>
+Simon Kuznets Kharkiv National University of Economics - Master's Degree (Diplom Spezialist)
+
+**Technologist technician** - 09/1999 - 07/2002<br>
+Kharkov Radiotechnical College - Professional Diploma (Junior Specialist)
+<br>
+<br>
+### Certificates
+**CCNA: Introduction to Networks** - 03/2025 - 05/2025<br>
+SEDICOMM University
+
+**DevOps I: LINUX AND NETWORKS FUNDAMENTALS** - 03/2025 - 05/2025<br>
+SoftServe Academy
+
+**DevOps II: CI/CD, Containers and Cloud Fundamentals** - 05/2025 - 07/2025<br>
+SoftServe Academy
+
+**DataBase Fundamentals** - 08/2025 - 09/2025<br>
+SoftServe Academy
+<br>
+<br>
+### Languages
+**Ukrainian** - Native<br>
+**English** - Intermediate
+
 
 
 
